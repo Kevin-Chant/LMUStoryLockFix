@@ -1,0 +1,10 @@
+{
+  "name": "LMUStoryLockFix",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Kevin-Chant/LMUStoryLockFix",
+  "description": "Fixes LethalMoonUnlocks permanently story-locking undiscovered moons after getting fired or starting a new save. Host-side.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "explodingMods-LethalMoonUnlocks-2.4.8"
+  ]
+}
